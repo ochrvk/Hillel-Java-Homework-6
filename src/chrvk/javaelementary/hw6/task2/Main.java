@@ -1,4 +1,4 @@
-package chrvk.hw6.task2;
+package chrvk.javaelementary.hw6.task2;
 
 public class Main {
 
