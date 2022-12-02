@@ -1,15 +1,4 @@
 package chrvk.javaelementary.hw6.task1;
-/*
-Написать метод который принимает 2 строки - a, b.
-Метод должен вернуть количество символов которые у них различаются.
-Если строки разной длины то вернуть -1.
-Примеры:
-a="asdf", b="qwerty" => -1
-a="abb", b="bba" => 0
-a="abc", b="dca" => 1
-a="aaa", b="fga" => 2
-a="abc", b="dfg" => 3
-*/
 
 public class Main {
     public static void main(String[] args) {
