@@ -1,4 +1,4 @@
-# Hillel-Java-Homework-6
+# Homework 6
 
 ## **Task 1:**  
 
